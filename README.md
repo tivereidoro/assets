@@ -4,3 +4,6 @@
 ![alx_bg](https://github.com/tivereidoro/assets/assets/105525310/e93b5abb-fb6a-4968-95f6-b0b16c985184)
 ![Earth](https://github.com/tivereidoro/assets/assets/105525310/df9377a9-8ee2-4e94-876f-93d3ddb1175e)
 ![github-1](https://github.com/tivereidoro/assets/assets/105525310/cd44b330-3631-4d06-9cd3-c4da09086dfc)
+
+
+![footer_banner](https://github.com/tivereidoro/assets/assets/105525310/ecb91fd3-aa63-4126-978e-d4ce63087e2d)
